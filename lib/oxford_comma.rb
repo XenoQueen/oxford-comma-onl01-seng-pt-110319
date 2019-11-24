@@ -11,7 +11,7 @@ def oxford_comma(array)
       if number == array_size - 2
         sentence << fruit + ", and "
       elsif number == array_size - 1 
-        return sentence
+        return sentence  << fruit
       else
         sentence << fruit + ", "
       end
