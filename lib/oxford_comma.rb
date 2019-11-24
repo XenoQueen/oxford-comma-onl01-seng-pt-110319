@@ -9,7 +9,8 @@ array_size = array.length
   else
     number = 0
       fruit = ""
-    array.each do |word|
+    array.each do |fruit|
+      fruit = "word"
       number += 1
   end
   
