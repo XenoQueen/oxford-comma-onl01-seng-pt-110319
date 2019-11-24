@@ -15,7 +15,7 @@ array_size = array.length
       else
         sentence << fruit + ", "
       number += 1
-    end
+      end
   end
 end
 
