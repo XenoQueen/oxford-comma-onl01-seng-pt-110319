@@ -18,4 +18,3 @@ array_size = array.length
       end
   end
 end
-
