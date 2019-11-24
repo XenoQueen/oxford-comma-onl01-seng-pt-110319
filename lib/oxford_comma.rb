@@ -8,9 +8,9 @@ array_size = array.length
     puts array.join(" and ")
   else
     number = 0
-      fruit = ""
+      sentence = ""
     array.each do |fruit|
-      fruit = "word"
+      sentence = 
       number += 1
   end
   
