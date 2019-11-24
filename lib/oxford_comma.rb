@@ -10,7 +10,7 @@ array_size = array.length
     number = 0
       sentence = ""
     array.each do |fruit|
-      sentence = 
+      sentence 
       number += 1
   end
   
