@@ -10,9 +10,12 @@ array_size = array.length
     number = 0
       sentence = ""
     array.each do |fruit|
-      sentence 
+      if number == array.last
+        sentence << fruit + ", and "
+      else
+        sentence << fruit + ", "
       number += 1
+    end
   end
-  
 end
 
