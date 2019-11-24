@@ -16,5 +16,6 @@ def oxford_comma(array)
         sentence << fruit + ", "
       number += 1
       end
+    end
   end
 end
