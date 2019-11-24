@@ -17,4 +17,3 @@ array_size = array.length
       number += 1
       end
   end
-end
