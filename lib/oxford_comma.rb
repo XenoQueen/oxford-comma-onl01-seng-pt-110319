@@ -8,7 +8,7 @@ def oxford_comma(array)
     number = 0
     sentence = ""
     array.each do |fruit|
-      if number == array.last
+      if number == array.
         sentence << fruit + ", and "
       else
         sentence << fruit + ", "
